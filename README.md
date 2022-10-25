@@ -1,22 +1,21 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello Microverse
+# Hello Microverse Project
 
-> it's a project to help uderstand setting up linters
+> Project to help understand the previous Microverse lessons
+
 
 ## Built With
 
-- HTML
-- CSS
+-Major languages
+HTML,CSS
 
 ## Authors
-
 👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/EstherMawioo)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/esther-mawioo-58b636225/)
-
+- GitHub:https://github.com/mumo-esther/mumo-esther
+- Twitter:https://twitter.com/EstherMawioo
+- LinkedIn: https://www.linkedin.com/in/esther-mawioo-58b636225/
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -24,6 +23,8 @@ Contributions, issues, and feature requests are welcome!
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+Thank you for being involved in it i any way
 
 ## 📝 License
 
